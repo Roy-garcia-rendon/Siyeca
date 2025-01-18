@@ -24,6 +24,9 @@ Datos:
 
 El repositorio incluye documentos PDF con la información de las tablas, básicamente lo ya mostrado anterior mente,
 NOTA: lamentablemente no pude incluir la librería que utilizo para la creación de reportes de empleados, pero aquí dejo el link de los creadores para que la descarguen y la implementen: https://github.com/dompdf/dompdf
+#Diagrama de flujo obrasalta.php
+![image](https://github.com/user-attachments/assets/75321f20-8ee5-4c0b-879b-24c63b70bc25)
+
 
 
 
